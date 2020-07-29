@@ -14,6 +14,9 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <p>
+        <b>Beatriz Ali</b> ❤
+      </p>
     </FooterBase>
   );
 }
