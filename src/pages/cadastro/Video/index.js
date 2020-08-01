@@ -9,9 +9,7 @@ import Button from '../../../components/Button';
 function CadastroVideo() {
   const history = useHistory();
   const { handleChange, values} = useForm({
-    titulo:'videoo',
-    url: 'https://www.youtube.com/watch?v=vAV4Vy4jfkc',
-    categoria:'Front-end'
+   
   });
 
   return (
